@@ -1,0 +1,13 @@
+{
+  "name": "tgs2-week3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tugass.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon tugass.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
